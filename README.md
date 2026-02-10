@@ -26,6 +26,7 @@ Ready to build a resilient cluster? Get the complete PDF guide, including all sc
 
 ## 🛠️ Included Diagrams
 
+![Descripció de la imatge](Kubernetes_HA.png)
 
 *Figure 1: High-level HA Architecture*
 
